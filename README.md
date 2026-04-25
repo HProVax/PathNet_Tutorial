@@ -82,8 +82,8 @@ jupyter
 
 ## Author
 
-**[Your Name]**
-[Institution] | [your.email@institution.edu] | [ORCID]
+**Hamed Abdollahi**
+University of South Carolina | [HA25@mailbox.sc.edu] 
 
 ---
 
