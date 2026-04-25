@@ -83,7 +83,7 @@ jupyter
 ## Author
 
 **Hamed Abdollahi**
-University of South Carolina // HA25@mailbox.sc.edu
+University of South Carolina \n HA25@mailbox.sc.edu
 
 ---
 
